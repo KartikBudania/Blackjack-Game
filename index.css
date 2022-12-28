@@ -1,5 +1,6 @@
 body{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 35px;
     background-image: url(/table.png);
     background-size: cover;
     font-weight: bold;
@@ -19,11 +20,15 @@ button{
     color: #016f32;
     background-color: goldenrod;
     border: none;
-    width: 150px;
+    width: 250px;
     font-weight: bold;
+    font-size: 35px;
     border-radius: 3px;
     padding-top: 5px;
     padding-bottom: 5px;
-    margin-top: 2px;
-    margin-bottom: 2px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+button:hover{
+    cursor: pointer;
 }
