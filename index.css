@@ -1,4 +1,4 @@
-body{
+body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 35px;
     background-image: url(./assets/images/table.png);
@@ -8,15 +8,15 @@ body{
     text-align: center;
 }
 
-h1{
+h1 {
     color: goldenrod;
 }
 
-#message_el{
+#message_el {
     font-style: italic;
 }
 
-button{
+button {
     color: #016f32;
     background-color: goldenrod;
     border: none;
@@ -29,6 +29,7 @@ button{
     margin-top: 5px;
     margin-bottom: 5px;
 }
-button:hover{
+
+button:hover {
     cursor: pointer;
 }
